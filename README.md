@@ -16,15 +16,15 @@
 ### Design:
 - As a starting reference, the container width for this application will be `1200px` wide.
 - The font family used across the whole design is [Lato](https://fonts.google.com/specimen/Lato?query=lato) and you can request it from Google Fonts;
-- The [first image](img) represents the main view of the app. Here you will display the data fetched from the API endpoint. 
+- The [first image](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/posts.jpeg) represents the main view of the app. Here you will display the data fetched from the API endpoint. 
 - The last card represents the card hover state;
 - When clicking the `Learn More` button or the title, the modal from the second image should pop up;
 
-![posts](first img)
+![posts](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/posts.jpeg)
 
-- The [second image](second) shows the modal opened;
+- The [second image](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/posts-modal.jpeg) shows the modal opened;
 
-![posts with modal](second)
+![posts with modal](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/posts-modal.jpeg)
 
 ---
 
