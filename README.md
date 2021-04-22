@@ -8,7 +8,7 @@
 ![Use GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ### Instructions:
-- You will build a simple React application that will fetch data from an [API](api url) and display it using the attached design;
+- You will build a simple React application that will fetch data from an [API](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/db.json) and display it using the attached design;
 - We need to see that you know your way around CSS and JS, so this must be built without using existing React component libraries or CSS frameworks. You can, however, use any scaffolding tool (like create-react-app), or other NPM packages that might be useful;
 - The React part of the application must be built using Function Components and Hooks (not classes);
 - You can write your stylesheet in either plain CSS, or SCSS - bonus points for using SCSS;
@@ -35,7 +35,7 @@
 ---
 
 ### Resources:
-- [The API endpoint](api url)
+- [The API endpoint](https://raw.githubusercontent.com/bitroot-org/frontend-intern-test/main/db.json)
 
 ---
 
