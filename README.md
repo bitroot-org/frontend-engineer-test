@@ -1,5 +1,11 @@
 ## 2021 Frontend Intern Test by Bitroot Org.
 
+![Bitroot front-end internship](https://img.shields.io/badge/frontend-intern-test?style=flat-square&link=https://themeisle.com)
+![Use Bitroot](https://bitroot.org/images/favicon.png)
+![Use React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
+![Use JS](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
+![Use CSS](https://img.shields.io/badge/CSS/SCSS-181717?style=flat-square&logo=css3)
+![Use GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ### Instructions:
 - You will build a simple React application that will fetch data from an [API](api url) and display it using the attached design;
